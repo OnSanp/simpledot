@@ -1,4 +1,4 @@
 simpledot
 =========
 
-Blogging feat. minimalism.
+Blogging meets minimalism.
