@@ -1,0 +1,4 @@
+simpledot
+=========
+
+Blogging feat. minimalism.
