@@ -1,4 +1,4 @@
 simpledot
 =========
 
-Blogging meets minimalism.
+Because minimalism is fuckin' AWESOME!
